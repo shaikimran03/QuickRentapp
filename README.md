@@ -19,6 +19,3 @@ To set up and run the QuickRentApp project locally, follow these steps:
 5. Run the application 
 
     npm run dev
-    
-deploy link:
-https://jade-lily-d2e9f9.netlify.app
