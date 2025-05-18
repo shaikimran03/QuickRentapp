@@ -2,8 +2,7 @@
 To set up and run the QuickRentApp project locally, follow these steps:
 
 1. Clone the Repository
- 
-   git clone https://github.com/shaikimran03/quickRentApp.git
+  git clone https://github.com/shaikimran03/quickRentApp.git
    cd quickRentApp
 
 2.Install Dependencies Make sure you have Node.js installed. 
